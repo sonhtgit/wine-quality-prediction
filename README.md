@@ -3,7 +3,7 @@
 This project uses machine learning to predict wine quality based on chemical features from the UCI Wine Quality Dataset.
 
 ## Project Structure
-- `5509-working-final project.ipynb`: Full notebook with EDA, modeling, evaluation, and conclusions.
+- `5509-Final-Project-Report_SH.ipynb`: Full notebook with EDA, modeling, evaluation, and conclusions.
 - `data/winequality-red.csv`: Dataset used for training and testing.
 
 ## How to Run
